@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me!
 permalink: /about/
 ---
 
-Some information about you!
+I'm a cool person who is very cool!.
 
-### More Information
+*italic*
+**bold**
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
+[github!](https://github.com/)
 
 [email@domain.com](mailto:email@domain.com)
