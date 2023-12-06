@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Badger Nested
+name: Boreality
 
 # Short bio or description (displayed in the header)
-description: A badger on the internet!
+description: A [] on the internet!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/badgernested/badgernested.github.io/master/images/shaymin.png
@@ -18,17 +18,17 @@ avatar: https://raw.githubusercontent.com/badgernested/badgernested.github.io/ma
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: email-test@email.com
+  email: turcraft@gmail.com
   facebook:
   flickr:
-  github: badgernested/badgernested.github.io
+  github: Boreality/Boreality.github.io
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: jraccountrot
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCfBbivdOUW0F30R0eNu0M8A
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
