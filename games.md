@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Games
+title: Games
 permalink: /games/
 ---
 
