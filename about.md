@@ -11,4 +11,4 @@ _nevertheless_
 **bold unlike you**
 ### I am unsure about how to exist so don't @ me
 
-[Check out this sick website] (https://kinhost.org/Main/ManualTOC)
+[Check out this sick website](https://kinhost.org/Main/ManualTOC)
