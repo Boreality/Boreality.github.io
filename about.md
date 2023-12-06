@@ -4,6 +4,11 @@ title: About Me!
 permalink: /about/
 ---
 
-This is a dummy blog that is designed to help people start their own github pages blog super easily!
+I am a cool person who is very cool
 
-[My main website](https://punishedfelix.com/)
+_nevertheless_
+
+**bold unlike you**
+### I am unsure about how to exist so don't @ me
+
+[Check out this sick website] (https://kinhost.org/Main/ManualTOC)
