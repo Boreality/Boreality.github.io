@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Boreality
+name: Tural Rooda
 
 # Short bio or description (displayed in the header)
-description: A [] on the internet!
+description: Games Designer, Hyperstition Enjoyer, Infra-Materialist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/Boreality/Boreality.github.io/master/images/1.png
@@ -21,14 +21,14 @@ footer-links:
   email: turcraft@gmail.com
   facebook:
   flickr:
-  github: Boreality/Boreality.github.io
+  github: Boreality
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jraccountrot
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: channel/UCfBbivdOUW0F30R0eNu0M8A
+  youtube: channel/UClmus0olRnIcglrjlksDAMA
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
