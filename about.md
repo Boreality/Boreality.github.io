@@ -4,7 +4,8 @@ title: About Me!
 permalink: /about/
 ---
 
-I am a cool person who is very cool
+Hi! I'm Tural, a practicing Game Designer. 
+
 
 _nevertheless_
 
